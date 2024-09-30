@@ -1,6 +1,4 @@
-## Hi there 👋
-
-My name is Machi Takeda
+## Hi 👋　　I'm Machi Takeda
 
 - 📚 I’m currently pursuing MS Statistics at UIUC
 - 💼 I work as an Operations Research Analyst
